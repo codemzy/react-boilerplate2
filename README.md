@@ -7,6 +7,8 @@
     ------------------------------------------------------------------------------ 
 
 
-React Timer.
+React Boilerplate.
 
-React timer project with countdown.
+A simple React boilerplate for developing with React.
+
+Version 2: With testing and scss modules.
